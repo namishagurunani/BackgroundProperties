@@ -3,8 +3,9 @@
 ![image](https://github.com/namishagurunani/BackgroundProperties/assets/126158413/ae47e428-ea42-49f0-b8d9-f74d0e276a00)
 ![image](https://github.com/namishagurunani/BackgroundProperties/assets/126158413/87601653-9ff5-4b9b-b4f2-d65e29c6de2e)
 # Explanation:
+<ol>
 <li>HTML Structure:</li>
-
+</ol>
 The code starts with the <!DOCTYPE html> declaration, indicating that it's an HTML5 document.
 The <html> tag represents the root of the HTML document.
 The <head> section contains meta-information about the document and links to external resources.
