@@ -8,8 +8,8 @@
 </ol>
 <ul><li>The code starts with the '!DOCTYPE html' declaration, indicating that it's an HTML5 document.</li>
 <li>The 'html' tag represents the root of the HTML document.</li>
-<li>The <head> section contains meta-information about the document and links to external resources.</li>
-<li>The <body> tag contains the visible content of the webpage.</li></ul>
+<li>The 'head' section contains meta-information about the document and links to external resources.</li>
+<li>The 'body' tag contains the visible content of the webpage.</li></ul>
   <ol>
 <li>CSS Reset:<li></ol>
 </ul>
