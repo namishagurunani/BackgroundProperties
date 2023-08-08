@@ -8,7 +8,14 @@
 <li><The <head> section contains meta-information about the document and links to external resources.</li>
 <li>The <body> tag contains the visible content of the webpage.</li>
 </ul>
-  <ol>
+  <li>CSS Reset:</li>
+  <ul><li>The CSS code at the beginning (* { margin: 0; padding: 0; box-sizing: border-box; }) is a CSS reset, ensuring consistent styling across different browsers by resetting margins, paddings, and box-sizing.
+</li></ul>
+  <li>Navigation Bar:</li>
+   <ul><li>The navigation bar is defined inside a <div class="navbar">.</li>
+<li>The navigation bar has multiple navigation items (<div class="nav">), including "Home," "Services," "About," "Project," and "Contact."</li>
+<li>The "Home" navigation item has a specific class (<div class="nav home">) and a white background with black text.</li></ul>
+  </ol>
 
 # Sumbission-Required
 - Hosted link:[click here](https://namishagurunani.github.io/BackgroundProperties/)
