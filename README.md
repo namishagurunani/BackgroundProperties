@@ -35,7 +35,7 @@
      <li>The mid section images have specific margins, widths, and heights to be displayed uniformly.</li>
   </ul>
   <li>Responsive Design:</li>
-  <ul> <li>The use of the viewport meta tag in the <head> ensures proper scaling for different screen sizes.
+  <ul> <li>The use of the viewport meta tag in the 'head' ensures proper scaling for different screen sizes.
 </li></ul>
       <li>External Stylesheet:</li>
     <ul>The HTML file links to an external stylesheet (style.css) to apply the defined styles.</ul>
